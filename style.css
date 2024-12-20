@@ -1,0 +1,29 @@
+.header{
+    margin: 0 auto;
+    font-size: 10px;
+    width: 400px;
+    padding-left: 20px;
+    background-color: #f1f1f1;
+    border-left: 5px solid red;
+}
+
+main{
+    border: 2px solid #ebebeb;
+    padding: 5px 5px 5px 5px;
+    width: 400px;
+    padding-left: 20px;
+    background-color: #fbfbfb;
+}
+form{
+    margin: 0 auto;
+    width: 400px;
+}
+
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
